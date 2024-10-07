@@ -30,7 +30,8 @@ return [
 
     'compiled' => env(
         'VIEW_COMPILED_PATH',
-        realpath(storage_path('framework/views'))
-    ),
+        'C:/Users/夕霞之/AtlasManagementSystem_TakanoYuji/storage/framework/views'
+),
+
 
 ];
